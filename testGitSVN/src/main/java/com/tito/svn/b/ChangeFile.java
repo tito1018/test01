@@ -6,7 +6,7 @@ public class ChangeFile {
 	private String fileType;
 	
 	/**
-	 * A表示增加文件，M表示修改文件，D表示删除文件，U表示末知
+	 * A表示增加文件，M表示修改文件，D表示删除文件，U表示末知 111111
 	 */
 	private Character changeType;
 	private String fileContent;
